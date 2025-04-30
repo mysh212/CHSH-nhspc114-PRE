@@ -38,7 +38,7 @@
 ### ***Sample Input 1***
 
 ```
-10
+12
 1 5 oQEouHTiWKhqbPqT
 1 2 sofa
 2 2 1
@@ -66,8 +66,7 @@ oh can't find anything...
 
 ### ***Sample Input 2***
 ```
-2	
-10
+12
 1 7 orange
 2 7 1
 1 6 banana
